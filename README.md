@@ -12,17 +12,17 @@ Data Set : https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
 
 Video Link: https://screenrec.com/share/6nbSzcfexy
 
-#Task 3: 
+#Task 3:  Employee turnover prediction
 
-Data Set :
+Data Set : https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 
-Video Link:
+Video Link: https://screenrec.com/share/5lVbnphz2K
 
-#Task 4: 
+#Task 4: Fraud Transaction Detection
 
-Data Set :
+Data Set : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
-Video Link:
+Video Link: https://screenrec.com/share/JQtiHMaqd4
 
 #Task 5: 
 

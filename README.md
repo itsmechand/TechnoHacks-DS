@@ -24,8 +24,8 @@ Data Set : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Video Link: https://screenrec.com/share/JQtiHMaqd4
 
-#Task 5: 
+#Task 5: Email Spam Filtering
 
-Data Set :
+Data Set : https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
-Video Link:
+Video Link: https://screenrec.com/share/h1jsP2y76a
